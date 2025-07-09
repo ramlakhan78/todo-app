@@ -39,7 +39,6 @@ todoapp.client/
 └── README.md
 ```
 
-
 ## Getting Started
 
 ### Prerequisites
